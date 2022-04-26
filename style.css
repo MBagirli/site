@@ -787,6 +787,12 @@ body {
   }
 }
 
+@media (max-width: 445px) {
+  .Section-AboutMe__Container__Item h2 {
+    font-size: 1.5rem;
+  }
+}
+
 @media (max-width: 441px) {
   .Section-Certificates__Container {
     padding: 10rem 3rem;

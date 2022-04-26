@@ -327,16 +327,16 @@ header .Header__Container .Navigation__display {
   background-size: 100% 100%;
 }
 .Section-Organizations__Container__Items__Image--1 {
-  background-image: url("../../img/o1.png");
+  background-image: url("img/o1.png");
 }
 .Section-Organizations__Container__Items__Image--2 {
-  background-image: url("../../img/o2.png");
+  background-image: url("img/o2.png");
 }
 .Section-Organizations__Container__Items__Image--3 {
-  background-image: url("../../img/o3.jpg");
+  background-image: url("img/o3.jpg");
 }
 .Section-Organizations__Container__Items__Image--4 {
-  background-image: url("../../img/o4.png");
+  background-image: url("img/o4.png");
 }
 .Section-Organizations__Container__Items__D h3 {
   font-size: 2rem;

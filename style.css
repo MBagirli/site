@@ -268,6 +268,10 @@ header .Header__Container .Navigation__display {
   font-size: 4rem;
   transition: all 0.3s;
   color: #ffd43b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .Section-Certificates__Container__Slider__Button:hover {
   box-shadow: 0 4rem 4rem rgba(0, 0, 0, 0.8);

@@ -2,6 +2,7 @@ header {
   position: fixed;
   right: 5%;
   top: 2%;
+  margin-right: 2rem;
   z-index: 10;
 }
 header .Header__Container {
@@ -796,14 +797,6 @@ body {
   .Section-Organizations__Container {
     padding: 10rem 3rem;
   }
-  .Open {
-    transform: scale(10);
-  }
-  header .Header__Container .Navigation__display ul li a:link,
-  header .Header__Container .Navigation__display ul li a:visited {
-    font-size: 1.7rem;
-    width: 12rem;
-  }
 }
 
 @media (max-width: 426px) {
@@ -853,3 +846,4 @@ body {
     height: 1.8rem;
   }
 }
+
